@@ -14,3 +14,5 @@ The repository contains the following files:
 4. tidyData.txt - The tidy data from the project
 
 The data used for the project can be found here - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+
